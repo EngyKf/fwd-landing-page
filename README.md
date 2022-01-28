@@ -11,3 +11,5 @@ to get started open the js file and start by connecting the js file with HTML an
 * 1 scroll to top button
 * highlighting the section
 * 4 sections
+## Developer
+Engy Khaled
