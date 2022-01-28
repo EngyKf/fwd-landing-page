@@ -1,4 +1,3 @@
-# fwd-landing-page
 # Landing page
 ## Table of content
 * [General info](#general-info)
