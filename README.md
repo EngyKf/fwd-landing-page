@@ -5,10 +5,8 @@
 * [Instructions](#instructions)
 * [Developer](#developer)
 ## General info
-This project is about Landing page of a website
-Instructions
-this project contains the following files , HTML, CSS and jaca script
-to get started open the js file and start by connecting the js file with HTML and the css and add the css to html to style it
+This project is about Landing page of a website using HTML, CSS & JAVASCRIPT
+it includes 4 different sections with nav bar buttons to navigate you easily and a scroll to top button to bring you up.
 ## Features
 * 4 navigation buttons
 * 1 scroll to top button
